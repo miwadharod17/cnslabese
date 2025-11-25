@@ -28,3 +28,5 @@ gcd, s, t = extended_euclid(x, y)
 print("\nGCD =", gcd)
 print("s1 =", s)
 print("t1 =", t)
+
+

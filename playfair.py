@@ -111,7 +111,7 @@ def playfair_decrypt(cipher, key):
 # ------------------------
 if __name__ == "__main__":
     key = "MONARCHY"
-    text = "BALLOON"
+    text = "JUICE"
 
     encrypted = playfair_encrypt(text, key)
     decrypted = playfair_decrypt(encrypted, key)
